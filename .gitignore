@@ -7,7 +7,7 @@ System Volume Information/
 
 .vscode/
 .idea/
-*.iml
+.iml/
 
 
 node_modules/
