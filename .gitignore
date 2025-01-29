@@ -1,0 +1,16 @@
+
+Thumbs.db
+Desktop.ini
+
+$RECYCLE.BIN/
+System Volume Information/
+
+.vscode/
+.idea/
+*.iml
+
+
+node_modules/
+venv/
+dist/
+build/
